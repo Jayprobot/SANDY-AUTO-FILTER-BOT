@@ -17,12 +17,12 @@ class script(object):
 <i>Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ</i>''')
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Filmy_Rog><b>sᴀɴᴅᴍᴀɴ⚡</b></a>\n
-👨‍💻 ᴍʏ ғᴀᴛʜᴇʀ : <a href=https://t.me/SYRUS_143_HPY><b>亗 𝗧𝗛𝗘 𝗦𝗔𝗡𝗗𝗠𝗔𝗡⚡</b></a>\n
+    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/DK_Autofilterbot><b>sᴀɴᴅᴍᴀɴ⚡</b></a>\n
+👨‍💻 ᴍʏ ғᴀᴛʜᴇʀ : <a href=https://t.me/PharmacistBoy1><b>♨️ꜱᴘᴇᴄɪᴀʟɪꜱᴛ♨️™</b></a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ɪᴅᴋ\n
-📢 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Filmy_Men><b></b>ғɪʟᴍʏ ᴍᴇɴ</a>\n
+📢 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+wzrfNLJc-4RkMWQ1><b></b>♨️ ᴅᴋғɪʟᴇs♨️™</a>\n
 🌟 ᴠᴇʀsɪᴏɴ : ᴠ 4.0\n</b></i>"""
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
 » I will Create One Bot For You<b>
@@ -51,7 +51,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/GreyMatter_Owner)</code>
+<code>[Button Text](buttonurl:https://t.me/PharmacistBoy1)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
