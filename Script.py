@@ -18,7 +18,7 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/DK_Autofilterbot><b>sᴀɴᴅᴍᴀɴ⚡</b></a>\n
-👨‍💻 ᴍʏ ғᴀᴛʜᴇʀ : <a href=https://t.me/PharmacistBoy1><b>♨️ꜱᴘᴇᴄɪᴀʟɪꜱᴛ♨️™</b></a>\n " Thnx To<a href=https://t.me/Syrus_143_hpy><b>亗 𝗧𝗛𝗘 𝗦𝗔𝗡𝗠𝗗𝗔𝗡 ⚡</b></a>\n
+👨‍💻 ᴍʏ ғᴀᴛʜᴇʀ : <a href=https://t.me/PharmacistBoy1><b>♨️ꜱᴘᴇᴄɪᴀʟɪꜱᴛ♨️™</b></a>\n "<a href=https://t.me/Syrus_143_hpy><b>亗</b></a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ3\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ɪᴅᴋ\n
