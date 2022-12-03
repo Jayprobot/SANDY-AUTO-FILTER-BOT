@@ -12,7 +12,7 @@ def is_enabled(value, default):
 
 class script(object):
     HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://t.me/Syrus_143_hpy')
-    START_TXT = environ.get("START_TXT", '''<b>Hello {} 👋🏻 I am ♨️ꜱᴘᴇᴄɪᴀʟɪꜱᴛ♨️™
+    START_TXT = environ.get("START_TXT", '''<b>Hello {} 👋🏻 I am ꜱᴘᴇᴄɪᴀʟɪꜱᴛ
  Search Bot I can share Movies and Series 😁.</b>
 
 <i>Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ</i>''')
