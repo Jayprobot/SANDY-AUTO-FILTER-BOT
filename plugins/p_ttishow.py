@@ -54,7 +54,7 @@ async def save_group(bot, message):
                     except:
                         pass
                 temp.MELCOW['welcome'] = await message.reply_video(
-                video="https://telegra.ph/file/55fe0da0a01c2febc9f51.mp4",                                               
+                video="https://telegra.ph/file/70f75a9a8ca6df16b0a9c.mp4",                                               
                                                  caption=f'<b>ʜᴇʏ, {u.mention} 👋🏻\nᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴏᴜʀ ɢʀᴏᴜᴘ {message.chat.title}\n\nʏᴏᴜ ᴄᴀɴ ꜰɪɴᴅ ᴍᴏᴠɪᴇꜱ / ꜱᴇʀɪᴇꜱ / ᴀɴɪᴍᴇꜱ ᴇᴛᴄ. ꜰʀᴏᴍ ʜᴇʀᴇ. ᴇɴᴊᴏʏ😉.\n\n<b>┏≫ ғᴏʟʟᴏᴡ ɢʀᴏᴜᴘ ʀᴜʟᴇs</b>\n┣ <b>ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ›› @DKBOSS4</b></code>\n<b>┗≫ ғᴏʟʟᴏᴡ ɢʀᴏᴜᴘ ʀᴜʟᴇs</b>',
                                                  reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('➡️ɢʀᴏᴜᴘ ʀᴜʟᴇs⬅️', url='http://t.me/MissRose_bot?start=rules_-1001719484597') ] ] )
                 )
