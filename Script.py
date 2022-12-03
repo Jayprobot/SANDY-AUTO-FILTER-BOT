@@ -12,13 +12,13 @@ def is_enabled(value, default):
 
 class script(object):
     HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://t.me/PharmacistBoy1')
-    START_TXT = environ.get("START_TXT", '''<b>Hello {} 👋🏻 Im Sandman Search Bot I can share Movies and Series 😁.</b>
+    START_TXT = environ.get("START_TXT", '''<b>Hello {} 👋🏻 Im Search Bot I can share Movies and Series 😁.</b>
 
 <i>Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ</i>''')
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/DK_Autofilterbot><b>sᴀɴᴅᴍᴀɴ⚡</b></a>\n
-👨‍💻 ᴍʏ ғᴀᴛʜᴇʀ : <a href=https://t.me/PharmacistBoy1><b>♨️ꜱᴘᴇᴄɪᴀʟɪꜱᴛ♨️™</b></a>\n
+👨‍💻 ᴍʏ ғᴀᴛʜᴇʀ : <a href=https://t.me/PharmacistBoy1><b>♨️ꜱᴘᴇᴄɪᴀʟɪꜱᴛ♨️™</b></a>\n " Thnx To<a href=https://t.me/Syrus_143_hpy><b>亗 𝗧𝗛𝗘 𝗦𝗔𝗡𝗠𝗗𝗔𝗡 ⚡</b></a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ3\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ɪᴅᴋ\n
