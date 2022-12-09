@@ -19,11 +19,11 @@ class script(object):
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/DK_Autofilterbot><b>sᴀɴᴅᴍᴀɴ⚡</b></a>\n
 👨‍💻 ᴍʏ ᴏᴡɴᴇʀ : <a href=https://t.me/PharmacistBoy1><b>♨️ꜱᴘᴇᴄɪᴀʟɪꜱᴛ♨️™</b></a>\n
-🙋‍♂️ ʜᴇʟᴘᴇʀ : <a href=https://t.me/PharmacistBoy1><b>亗 SANDY |⚡|</b></a>\n
+🙋‍♂️ ʜᴇʟᴘᴇʀ : <a href=https://t.me/Syrus_143_hpy><b>亗 SANDY |⚡|</b></a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ3\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ɪᴅᴋ\n
-📢 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+wzrfNLJc-4RkMWQ1><b></b>♨️ ᴅᴋғɪʟᴇs♨️™</a>\n
+📢 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+rcrY6R5V-YExNGVl><b></b>♨️ ᴅᴋғɪʟᴇs♨️™</a>\n
 🌟 ᴠᴇʀsɪᴏɴ : ᴠ 4.0\n</b></i>"""
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
 » I will Create One Bot For You<b>
