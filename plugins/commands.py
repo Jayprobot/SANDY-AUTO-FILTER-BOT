@@ -23,10 +23,10 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('⚡ UᎮDΛTΞS ⚡', url='https://t.me/+wzrfNLJc-4RkMWQ1')
+                InlineKeyboardButton('⚡ UᎮDΛTΞS ⚡', url='https://t.me/+mf-oa9-yrWg0M2M1')
             ],
             [
-                InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url=f"https://t.me/+wzrfNLJc-4RkMWQ1"),
+                InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url=f"https://t.me/+mf-oa9-yrWg0M2M1"),
             ],
             [
                 InlineKeyboardButton(text=DOWNLOAD_TEXT_NAME,url=DOWNLOAD_TEXT_URL)
@@ -47,8 +47,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/+rcrY6R5V-YExNGVl'),
-            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/+rcrY6R5V-YExNGVl')
+            InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/+mf-oa9-yrWg0M2M1'),
+            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/+mf-oa9-yrWg0M2M1')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
@@ -93,8 +93,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/+rcrY6R5V-YExNGVl'),
-            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/+rcrY6R5V-YExNGVl')
+            InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/+mf-oa9-yrWg0M2M1'),
+            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/+mf-oa9-yrWg0M2M1')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
